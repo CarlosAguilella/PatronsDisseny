@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Adapter.iml" filepath="$PROJECT_DIR$/Adapter/Adapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Builder.iml" filepath="$PROJECT_DIR$/Builder/Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/CallBack/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/CallBack/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/CallBack/CallBack.iml" filepath="$PROJECT_DIR$/CallBack/CallBack.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/Computer/Computer.iml" filepath="$PROJECT_DIR$/Builder/Computer/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/Factory.iml" filepath="$PROJECT_DIR$/Factory/Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/CallBack/FileDownloader/FileDownloader.iml" filepath="$PROJECT_DIR$/CallBack/FileDownloader/FileDownloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/GuessGame/GuessGame.iml" filepath="$PROJECT_DIR$/Builder/GuessGame/GuessGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/ListView/ListView.iml" filepath="$PROJECT_DIR$/Adapter/ListView/ListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Multiplier/Multiplier.iml" filepath="$PROJECT_DIR$/Adapter/Multiplier/Multiplier.iml" />
       <module fileurl="file://$PROJECT_DIR$/PatronsDisseny.iml" filepath="$PROJECT_DIR$/PatronsDisseny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Adapter/Pinger/Pinger.iml" filepath="$PROJECT_DIR$/Adapter/Pinger/Pinger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Factory/ProductFactory/ProductFactory.iml" filepath="$PROJECT_DIR$/Factory/ProductFactory/ProductFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/CallBack/SimuladorHipoteca/SimuladorHipoteca.iml" filepath="$PROJECT_DIR$/CallBack/SimuladorHipoteca/SimuladorHipoteca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder/TextBox/TextBox.iml" filepath="$PROJECT_DIR$/Builder/TextBox/TextBox.iml" />
     </modules>
